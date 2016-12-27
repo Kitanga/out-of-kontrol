@@ -3,7 +3,7 @@ The plugin that's actually in control of your game's controls.
 
 (Made with love from Africa. Now, whether you buy or not, have a good day! Continueing)
 
-You can buy it from me on [Gumroad](https://gumroad.com/l/OutofKontrol). If that doesn't convince you, maybe this will...
+You can buy it from me on [Gumroad](https://gumroad.com/l/OutofKontrolPhaserPlugin). If that doesn't convince you, maybe this will...
 
 ## What is this?
 
